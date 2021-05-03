@@ -1,6 +1,7 @@
 #Note that your code editor must be able to read .txt files, thats where the users data will be stored.
 
-# NEW USER
+The following are the functions in the program.
+# NEWUSER
 The function new user enables newbies to Sign up, the program saves their details afterwards.
 
 #GENERATEACCOUNTNO
