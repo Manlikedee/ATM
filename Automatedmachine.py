@@ -89,4 +89,4 @@ def MenuOptions():
 
 
 generateTimeAndDate()
-login()
+register()
